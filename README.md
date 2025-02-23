@@ -25,7 +25,8 @@ You will need to open the bot to insert your Bot Token just edit with notepad an
 
 # Set up bot
 TOKEN = "PUT TOKEN HERE"   make sure your put the token between "" 
-#info
+
+# info
 Regarding the quick files. the bot will create a text file in the root directory of where the bot is sitting. this file will point the bot to the quick files, if you want to change them just delete the corisponding line in the file. 
 
 # running the bot

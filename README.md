@@ -50,6 +50,6 @@ cd Desktop
 
 cd "Music Man Discord BOT"		<-- this is the folder the bot is located in if there is spaces in the folder name use "" around the folder name if it has spaces
 
-python DiscodMusicBox.py		<-- command to start the bot
+python DiscodMusicBox_1.1.py		<-- command to start the bot
 
 pause					<-- this prevents the script from closing prematurely 

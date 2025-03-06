@@ -1,4 +1,5 @@
-﻿import os
+#This is the very first version of the bot. it is now obsalete but will leave it here for prosperity 
+import os
 import discord
 import asyncio
 from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QListWidget, QFileDialog, QListWidgetItem, QMessageBox, QSlider, QLabel
